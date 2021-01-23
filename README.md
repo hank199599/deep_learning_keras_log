@@ -2,32 +2,31 @@
 (目前進度：第一 、二章)
 ## 關於書籍
 書本採用Jerry老師推薦的  
-**DATA SCIENCE FROM SCRATCH中文版：用PYTHON學資料科學**
-  
-作者： Joel Grus  
-譯者： 藍子軒  
-出版社：歐萊禮    
-出版日期：2016-10-30  
-語言：繁體中文  
+**《Deep learning 深度學習必讀 - Keras 大神帶你用 Python 實作》**
 
+作者： François Chollet
+譯者： 葉欣睿
+出版社：旗標
+出版日期：2019/05/31
+語言：繁體中文
 ## 章節
 
 
 * [Ch01 何謂深度學習？](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter1.ipynb)
 
-[Ch02 開始之前：了解神經網路的數學概念](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter2.ipynb)
+* [Ch02 開始之前：了解神經網路的數學概念](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter2.ipynb)
 
-[Ch03 開始使用神經網路](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter3.ipynb)
+* [Ch03 開始使用神經網路](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter3.ipynb)
 
-[Ch04 機器學習的基礎知識](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter4.ipynb)
+* [Ch04 機器學習的基礎知識](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter4.ipynb)
 
-[Ch05 深度學習實務電腦視覺的深度學習](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter5.ipynb)
+* [Ch05 深度學習實務電腦視覺的深度學習](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter5.ipynb)
 
-[Ch06 應用於文字資料與序列資料的深度學習 ](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter6.ipynb)
+* [Ch06 應用於文字資料與序列資料的深度學習 ](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter6.ipynb)
 
-[Ch07 進階深度學習的最佳實作方式](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter7.ipynb)
+* [Ch07 進階深度學習的最佳實作方式](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter7.ipynb)
 
-[Ch08 生成式深度學習](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter8.ipynb)
+* [Ch08 生成式深度學習](https://colab.research.google.com/github/hank199599/deep_learning_keras_log/blob/main/Chapter8.ipynb)
 
 
 ## 參與讀書會
